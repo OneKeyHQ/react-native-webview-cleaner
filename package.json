@@ -1,0 +1,26 @@
+{
+  "name": "react-native-webview-cleaner",
+  "version": "0.0.1",
+  "description": "react-native webview cache cleaner",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cancue/react-native-webview-cleaner.git"
+  },
+  "keywords": [
+    "react-native",
+    "webview",
+    "cache",
+    "cleaner"
+  ],
+  "author": "M.H. Kang <kanqmh@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/cancue/react-native-webview-cleaner#readme",
+  "bugs": {
+    "url": "https://github.com/cancue/react-native-webview-cleaner/issues"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
