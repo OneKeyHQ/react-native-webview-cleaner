@@ -1,6 +1,6 @@
 {
   "name": "react-native-webview-cleaner",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "react-native webview cache cleaner",
   "main": "index.js",
   "repository": {
