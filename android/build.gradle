@@ -2,7 +2,7 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion(rootProject.ext.has('compileSdkVersion') ? rootProject.ext.compileSdkVersion : 30)
     buildToolsVersion "23.0.1"
 
     defaultConfig {
